@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesus "Nacho" Aguilar, a data scientis and microbiologist 
 - 👀 I’m interested in the intersection of science and technology, particularly biotechnology & data science
-- 🌱 Profecient in Python and R for data science and analytics
+- 🌱 Profecient in Python and R for data science, data analytics, and data visualization
 - 💞️ I’m looking for a data science role
 - 📫 How to reach me:
      Email: jignacio.aglr@gmail.com
